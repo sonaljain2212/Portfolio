@@ -55,21 +55,21 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "QuantiphiInc."
+    - company: "Quantiphi"
       role: "Data Science Consultant Intern"
       startdate: Aug 2020
       enddate: Dec 2020
       featuredpoints:
         - point: Accomplished 95% reduction in manual efforts, time, and cost by developing tool for DOCUMENT processing using Machine Learning and Google Cloud Platform. 
         #- point: Developed 8 critical features to classify, extract, translate, summarize, search documents.
-    - company: "TataConsultancyServices"
+    - company: "Tata-Consultancy-Services"
       role: "System Engineer"
       startdate: Oct 2016
       enddate: Jul 2019
       featuredpoints:
         - point: Developed Recommendation System to recommend courses to TCS employees for increasing competency.
         - point: Led a team of 5 and developed Selenium automation testing framework for test banking mobile application and website.
-    - company: "NortheasternUniversity"
+    - company: "Northeastern-University"
       role: "Teaching Assitant"
       startdate: Jan 2020
       enddate: Apr 2021
