@@ -60,18 +60,18 @@ params:
       enddate: Dec 2020
       featuredpoints:
         - point: Accomplished 95% reduction in manual efforts, time, and cost by developing tool for DOCUMENT processing using Machine Learning and Google Cloud Platform. 
-        - point: Developed 8 critical features to classify, extract, translate, summarize, search documents.
+        #- point: Developed 8 critical features to classify, extract, translate, summarize, search documents.
     - company: "Tata Consultancy Services"
       role: "System Engineer"
       startdate: Oct 2016
       enddate: Jul 2019
       featuredpoints:
-        - point: Developed Recommendation System to recommend courses to TCS employees for increasing competency.
+#         - point: Developed Recommendation System to recommend courses to TCS employees for increasing competency.
         - point: Led a team of 5 and developed Selenium automation testing framework for test banking mobile application and website.
-    - company: "Northeastern University"
-      role: "Teaching Assitant"
-      startdate: Jan 2020
-      enddate: Apr 2021
+#     - company: "Northeastern University"
+#       role: "Teaching Assitant"
+#       startdate: Jan 2020
+#       enddate: Apr 2021
 #       featuredpoints:
 #         - point: Worked as a TA for Mathematics of Data Models and helped the students understand the statistical modeling, hypothesis testing and math behind the ML models.
 #         - point: Worked as a TA for Database Design and helped the student learn and create database systems.
