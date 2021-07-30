@@ -76,8 +76,8 @@ params:
       featuredpoints:
         - point: Worked as a TA for Mathematics of Data Models and helped the students understand the statistical modeling, hypothesis testing and math behind the ML models.
         - point: Worked as a TA for Database Design and helped the student learn and create database systems.
-# 	- point: Worked as a TA for Foundations of Data Science and helped the students learn about the basics of Data Science.
-# 	- point: Worked as a TA for Data Management and Processing and helped the students learn R and use it for solving Data Science problems.
+        - point: Worked as a TA for Foundations of Data Science and helped the students learn about the basics of Data Science.
+        - point: Worked as a TA for Data Management and Processing and helped the students learn R and use it for solving Data Science problems.
 
   # Education
   disable_education: false
@@ -137,9 +137,9 @@ params:
   email: "sonaljain2212@gmail.com"
 
   # Footer
-  socialiconfooter: true
-  recentposts: true
+  socialiconfooter: false
+  recentposts: false
 
   # Blog
   showdescription: false
-  tweet: true
+  tweet: false
