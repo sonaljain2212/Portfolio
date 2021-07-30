@@ -33,7 +33,6 @@ params:
   profession: "Machine Learning and Data Science enthusiast"
   github: "https://github.com/sonaljain2212"
   linkedin: "https://www.linkedin.com/in/sjain2212/"
-  twitter: "https://www.instagram.com/sonal_jain_22/"
   instagram: "https://www.instagram.com/sonal_jain_22/"
   facebook: "https://www.facebook.com/profile.php?id=100009302106683"
 
@@ -106,7 +105,7 @@ params:
       img: /images/project.jpg
       githublink: "https://github.com/sonaljain2212/Healthcare-Entity-and-Relationship-Extraction-on-Clinicaldata"
       featuredlink: "/"
-      description: "This project aims to perform Named entity and Relationship extraction on EHR data using existing biomedical deep learning model, BioBERT and find the latent information present in the data using topic modeling. Market basket analysis is used to uncover the relationship between extracted entities."
+      description: "This project aims to perform Named entity and Relationship extraction on EHR data and find the latent information present in the data using topic modeling and Market basket analysis."
     - name: "TV show character prediction using NLP"
       img: /images/project.jpg
       githublink: "https://github.com/sonaljain2212/TV-show-character-prediction-using-NLP"
@@ -121,7 +120,7 @@ params:
       img: /images/project.jpg
       githublink: "https://github.com/sonaljain2212/Customer-Churn-prediction"
       featuredlink: "/"
-      description: "Churn analysis is the evaluation of a company’s customer loss rate in order to reduce it. Also referred to as customer attrition rate, churn can be minimized by assessing your product and how people use it. In this project, I aim to predict the retention rate for a job board dataset."
+      description: "This project aim to predict the churn and retention rate for a job board dataset."
 
   # Achievements
   disable_achievements: true
