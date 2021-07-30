@@ -77,8 +77,8 @@ params:
       featuredpoints:
         - point: Worked as a TA for Mathematics of Data Models and helped the students understand the statistical modeling, hypothesis testing and math behind the ML models.
         - point: Worked as a TA for Database Design and helped the student learn and create database systems.
-# 	- point: Worked as a TA for Foundations of Data Science and helped the students learn about the basics of Data Science.
-# 	- point: Worked as a TA for Data Management and Processing and helped the students learn R and use it for solving Data Science problems.
+        - point: Worked as a TA for Foundations of Data Science and helped the students learn about the basics of Data Science.
+        - point: Worked as a TA for Data Management and Processing and helped the students learn R and use it for solving Data Science problems.
 
 
   # Education
@@ -113,16 +113,16 @@ params:
       githublink: "https://github.com/sonaljain2212/TV-show-character-prediction-using-NLP"
       featuredlink: "/"
       description: "This project aims to predicts "Which Character are You?" as to which Seinfeld character would be most likely to say the sentence/joke that was entered."
-#     - name: "Credit Card Fraud Detection"
-#       img: /images/project.jpg
-#       githublink: "https://github.com/sonaljain2212/Credit-Card-Fraud-Detection"
-#       featuredlink: "/"
-#       description: "Credit card fraud is a form of identity theft in which criminals make purchases or obtain cash advances using a credit card account assigned to you. This project aim to accurate predict fraud transactions."
-#     - name: "Customer churn prediction"
-#       img: /images/project.jpg
-#       githublink: "https://github.com/sonaljain2212/Customer-Churn-prediction"
-#       featuredlink: "/"
-#       description: "Churn analysis is the evaluation of a company’s customer loss rate in order to reduce it. Also referred to as customer attrition rate, churn can be minimized by assessing your product and how people use it. In this project, I aim to predict the retention rate for a job board dataset."
+    - name: "Credit Card Fraud Detection"
+      img: /images/project.jpg
+      githublink: "https://github.com/sonaljain2212/Credit-Card-Fraud-Detection"
+      featuredlink: "/"
+      description: "Credit card fraud is a form of identity theft in which criminals make purchases or obtain cash advances using a credit card account assigned to you. This project aim to accurate predict fraud transactions."
+    - name: "Customer churn prediction"
+      img: /images/project.jpg
+      githublink: "https://github.com/sonaljain2212/Customer-Churn-prediction"
+      featuredlink: "/"
+      description: "Churn analysis is the evaluation of a company’s customer loss rate in order to reduce it. Also referred to as customer attrition rate, churn can be minimized by assessing your product and how people use it. In this project, I aim to predict the retention rate for a job board dataset."
 
 
   # Achievements
