@@ -1,4 +1,4 @@
-baseURL: "https://profile.gurusabarish.tech"
+baseURL: "https://sonaljain2212.com"
 languageCode: "en-us"
 title: "Sonal Jain"
 
@@ -30,17 +30,17 @@ params:
   disable_home: false
   profile_image: "/images/profile.png"
   name: "Sonal Jain"
-  profession: "Machine Learning and Data Science"
+  profession: "Machine Learning and Data Science enthusiast"
   github: "https://github.com/sonaljain2212"
   linkedin: "https://www.linkedin.com/in/sjain2212/"
-  twitter: ""
+  twitter: "https://www.instagram.com/sonal_jain_22/"
   instagram: "https://www.instagram.com/sonal_jain_22/"
   facebook: "https://www.facebook.com/profile.php?id=100009302106683"
 
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Sonal a passionate Data enthusiast. I always thrive to work on end to end ML products which develop sustainable and scalable social and technical systems to create impact. I can make your data tell a story."
+  descripe_l1_person: "Hi, I'm Sonal, a passionate Data enthusiast. I always thrive to work on end to end ML products which develop sustainable and scalable social and technical systems to create impact. I can make your data tell a story."
   descripe_l2_person: "Check out my recent ML 30 day challenge [here](https://github.com/sonaljain2212/30DaysOfML)"
   skills:
     - name: Python
