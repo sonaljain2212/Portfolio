@@ -1,6 +1,7 @@
 baseURL: "https://sonaljain2212.com"
 languageCode: "en-us"
 title: "Sonal Jain"
+theme: "hugo-profile"
 
 googleanalytics: UA-167646412-8
 disqusShortname: 
